@@ -21,15 +21,15 @@ A theme with sold background and foreground colors.
 ### rainbow
 
 #### vacation-rainbow-black.png
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/rainbow/black/vacation-rainbow-black.png" alt="vacation-rainbow-black.png" width="360"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/rainbow/black/vacation-rainbow-black.png" alt="vacation-rainbow-black.png" width="240"/>
 
 #### vacation-rainbow-white.png
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/rainbow/white/vacation-rainbow-white.png" alt="vacation-rainbow-white.png" width="360"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/rainbow/white/vacation-rainbow-white.png" alt="vacation-rainbow-white.png" width="240"/>
 
 ### solid
 
 #### vacation-solid-black.png
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/solid/black/vacation-solid-black.png" alt="vacation-solid-black.png" width="360"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/solid/black/vacation-solid-black.png" alt="vacation-solid-black.png" width="240"/>
 
 #### vacation-solid-white.png
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/solid/white/vacation-solid-white.png" alt="vacation-rainbow-white.png" width="360"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/solid/white/vacation-solid-white.png" alt="vacation-rainbow-white.png" width="240"/>

@@ -1,6 +1,9 @@
 # bank-account-icons
 
 Icons for banks, that let you configure the look of your accounts (e.g. bunq).
+I will add more icons as I make them.
+
+Feel free to use these files as you want. These files are released into the public domain.
 
 ## Folders
 

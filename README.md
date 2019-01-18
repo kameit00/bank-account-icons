@@ -31,4 +31,3 @@ A theme with sold background and foreground colors.
 
 #### vacation-solid-white.png
 <img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/solid/white/vacation-solid-white.png" alt="vacation-rainbow-white.png" width="360"/>
-

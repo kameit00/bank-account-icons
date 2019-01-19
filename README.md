@@ -4,7 +4,9 @@ Icons for banks, that let you configure the look of your accounts (e.g. bunq).
 I will add more icons as I make them.
 Feel free to use these files as you want. These files are released into the public domain.
 
-[Download](https://github.com/kameit00/bank-account-icons/tree/master/output)
+[Download single icons from the output folder](https://github.com/kameit00/bank-account-icons/tree/master/output)
+
+[Download zip file of the complete project](https://github.com/kameit00/bank-account-icons/archive/master.zip)
 
 ## Table of Contents
 

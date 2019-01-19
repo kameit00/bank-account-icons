@@ -6,15 +6,7 @@ Feel free to use these files as you want. These files are released into the publ
 
 ## Folders
 
-There are "theme" folders for the source files (rainbow, solid,...) and an output folder, where these source files are exported to 1024px PNGs.
-
-### rainbow
-
-A theme with a rainbow gradient and solid background colors.
-
-### solid
-
-A theme with sold background and foreground colors.
+The output folder contains the files as 1024x1024 pixel PNGs.
 
 ## Previews
 

@@ -38,4 +38,4 @@ If you want to say thank you, you can buy me some chocolate if you want.
 Here is the link to my bunq account:
 https://bunq.me/kaimechel
 
-__Note__: If you have no bunq.com account, I wouldn't use the third party services behind the bunq.me link (SOFORT, iDeal). Just enjoy the icons ;-)
+__Note__: If you have no bunq.com account, I personally wouldn't use the third party services behind the bunq.me link (SOFORT, iDEAL). Just enjoy the icons ;-)

@@ -32,7 +32,7 @@ The `output` folder contains the files as 1024x1024 pixel PNGs. The source file 
 
 <img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/bank.png" alt="Icon Previews" width="960"/>
 
-## If you want to say tank you
+## If you want to say thank you
 
 If you want to say thank you, you can buy me some chocolate if you want.
 Here is the link to my bunq account:

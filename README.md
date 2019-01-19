@@ -14,23 +14,27 @@ The `output` folder contains the files as 1024x1024 pixel PNGs. The source file 
 
 ### Vacation
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/vacation.png" alt="Icon Previews" width="960"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/vacation-icons.png" alt="Icon Previews" width="960"/>
 
 ### Fuel
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/fuel.png" alt="Icon Previews" width="960"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/fuel-icons.png" alt="Icon Previews" width="960"/>
 
 ### Piggy Bank
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/piggy_bank.png" alt="Icon Previews" width="960"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/piggy-bank-icons.png" alt="Icon Previews" width="960"/>
 
 ### Card
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/card.png" alt="Icon Previews" width="960"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/card-icons.png" alt="Icon Previews" width="960"/>
 
 ### Bank
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/bank.png" alt="Icon Previews" width="960"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/bank-icons.png" alt="Icon Previews" width="960"/>
+
+### Cash
+
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/cash-icons.png" alt="Icon Previews" width="960"/>
 
 ## If you want to say thank you
 

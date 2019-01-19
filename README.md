@@ -6,7 +6,7 @@ Feel free to use these files as you want. These files are released into the publ
 
 ## Folders
 
-The output folder contains the files as 1024x1024 pixel PNGs.
+The `output` folder contains the files as 1024x1024 pixel PNGs. The source file for these exported icons is `icons.afdesign` ([Affinity Designer](http://affinity.serif.com/designer/))
 
 ## Previews
 

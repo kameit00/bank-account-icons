@@ -4,6 +4,8 @@ Icons for banks, that let you configure the look of your accounts (e.g. bunq).
 I will add more icons as I make them.
 Feel free to use these files as you want. These files are released into the public domain.
 
+[Download](https://github.com/kameit00/bank-account-icons/tree/master/output)
+
 ## Folders
 
 The `output` folder contains the files as 1024x1024 pixel PNGs. The source file for these exported icons is `icons.afdesign` ([Affinity Designer](http://affinity.serif.com/designer/))

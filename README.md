@@ -18,4 +18,4 @@ A theme with sold background and foreground colors.
 
 ## Previews
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/icons.png" alt="vacation-rainbow-white.png" width="960"/>
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/icons.jpg" alt="Icon Previews" width="960"/>

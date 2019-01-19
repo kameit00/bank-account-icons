@@ -6,6 +6,18 @@ Feel free to use these files as you want. These files are released into the publ
 
 [Download](https://github.com/kameit00/bank-account-icons/tree/master/output)
 
+## Table of Contents
+
+  * [Folders](#folders)
+  * [Previews](#previews)
+    + [Vacation](#vacation)
+    + [Fuel](#fuel)
+    + [Piggy Bank](#piggy-bank)
+    + [Card](#card)
+    + [Bank](#bank)
+    + [Cash](#cash)
+  * [If you want to say thank you](#if-you-want-to-say-thank-you)
+
 ## Folders
 
 The `output` folder contains the files as 1024x1024 pixel PNGs. The source file for these exported icons is `icons.afdesign` ([Affinity Designer](http://affinity.serif.com/designer/))

@@ -12,4 +12,22 @@ The `output` folder contains the files as 1024x1024 pixel PNGs. The source file 
 
 ## Previews
 
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/icons.gif" alt="Icon Previews" width="960"/>
+### Vacation
+
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/vacation.png" alt="Icon Previews" width="960"/>
+
+### Fuel
+
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/fuel.png" alt="Icon Previews" width="960"/>
+
+### Piggy Bank
+
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/piggy_bank.png" alt="Icon Previews" width="960"/>
+
+### Card
+
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/card.png" alt="Icon Previews" width="960"/>
+
+### Bank
+
+<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/bank.png" alt="Icon Previews" width="960"/>

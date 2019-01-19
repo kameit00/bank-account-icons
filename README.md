@@ -10,7 +10,7 @@ There are "theme" folders for the source files (rainbow, solid,...) and an outpu
 
 ### rainbow
 
-A theme with a rainbow gradient and solid background and foreground colors.
+A theme with a rainbow gradient and solid background colors.
 
 ### solid
 

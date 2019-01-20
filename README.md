@@ -52,11 +52,11 @@ The `output` folder contains the files as 1024x1024 pixel PNGs. The source file 
 
 ## If you want to say thank you
 
-To be honest, if you just enjoy the icons, it's absolutely ok and makes me smile.
+To be honest, if you just enjoy the icons, i would be more than happy and it makes me smile!
 
-If you want to say thank you and gift me some chocolate, here is the link to my bunq account:
+Only if you want to say thank you and gift me some chocolate, you can do so on my bunq account:
 [bunq.me/kaimechel](https://bunq.me/kaimechel)
-and PayPal:
+or PayPal:
 [paypal.me/kaimechel](https://paypal.me/kaimechel)
 
 __Note__: If you have no bunq.com account, I personally wouldn't use the third party services behind the bunq.me link (SOFORT, iDEAL).

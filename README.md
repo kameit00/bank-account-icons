@@ -20,7 +20,6 @@ Below you can find previews of all the icons.
   + [Card](#card)
   + [Bank](#bank)
   + [Cash](#cash)
-  + [TV with Ship](#tv-with-ship)
   + [TV](#tv)
 * [If you want to say thank you](#if-you-want-to-say-thank-you)
 
@@ -53,10 +52,6 @@ The `output` folder contains the files as 1024x1024 pixel PNGs. The source file 
 ### Cash
 
 <img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/cash-icons.png" alt="Icon Previews" width="960"/>
-
-### TV with Ship
-
-<img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/tv-ship-icons.png" alt="Icon Previews" width="960"/>
 
 ### TV
 

@@ -12,14 +12,16 @@ Below you can find previews of all the icons.
 
 ## Table of Contents
 
-  * [Folders](#folders)
-  * [Previews](#previews)
-    + [Vacation](#vacation)
-    + [Fuel](#fuel)
-    + [Piggy Bank](#piggy-bank)
-    + [Card](#card)
-    + [Bank](#bank)
-    + [Cash](#cash)
+* [Folders](#folders)
+* [Previews](#previews)
+  + [Vacation](#vacation)
+  + [Fuel](#fuel)
+  + [Piggy Bank](#piggy-bank)
+  + [Card](#card)
+  + [Bank](#bank)
+  + [Cash](#cash)
+  + [TV with Ship](#tv-with-ship)
+  + [TV](#tv)
   * [If you want to say thank you](#if-you-want-to-say-thank-you)
 
 ## Folders

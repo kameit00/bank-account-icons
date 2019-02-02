@@ -66,5 +66,3 @@ Only if you want to say thank you and gift me some chocolate, you can do so on m
 [bunq.me/kaimechel](https://bunq.me/kaimechel)
 or PayPal:
 [paypal.me/kaimechel](https://paypal.me/kaimechel)
-
-__Note__: If you have no bunq.com account, I personally wouldn't use the third party services behind the bunq.me link (SOFORT, iDEAL).

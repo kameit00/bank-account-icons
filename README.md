@@ -22,7 +22,7 @@ Below you can find previews of all the icons.
   + [Cash](#cash)
   + [TV with Ship](#tv-with-ship)
   + [TV](#tv)
-  * [If you want to say thank you](#if-you-want-to-say-thank-you)
+* [If you want to say thank you](#if-you-want-to-say-thank-you)
 
 ## Folders
 

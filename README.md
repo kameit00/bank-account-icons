@@ -8,6 +8,8 @@ Feel free to use these files as you want. These files are released into the publ
 
 [Download zip file of the complete project](https://github.com/kameit00/bank-account-icons/archive/master.zip)
 
+Below you can find previews of all the icons.
+
 ## Table of Contents
 
   * [Folders](#folders)

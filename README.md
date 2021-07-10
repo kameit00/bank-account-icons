@@ -56,12 +56,3 @@ The `output` folder contains the files as 1024x1024 pixel PNGs. The source file 
 ### TV
 
 <img src="https://raw.githubusercontent.com/kameit00/bank-account-icons/master/output/tv-icons.png" alt="Icon Previews" width="960"/>
-
-## If you want to say thank you
-
-To be honest, if you just enjoy the icons, i would be more than happy and it makes me smile!
-
-Only if you want to say thank you and gift me some chocolate, you can do so on my bunq account:
-[bunq.me/kaimechel](https://bunq.me/kaimechel)
-or PayPal:
-[paypal.me/kaimechel](https://paypal.me/kaimechel)
